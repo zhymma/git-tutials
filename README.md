@@ -99,3 +99,6 @@ $ ssh -T git@github.com，第一次输入会显示continue？，输入yes继续�
 ### 需要反复执行的命令有第五条中的2,3,4,6点，1,5点第一次执行过就可以了，注意顺序不能颠倒。
 
 ### README说明文件需要用到md编辑器，推荐下载Markdown编辑器进行编辑
+
+
+mzy edit
